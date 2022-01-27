@@ -1,5 +1,6 @@
  __Welcome To My GitHub Profile !__
 ___
+ __QA Course by Vadim Ksenzov__ [ksendzov.com](https://ksendzov.com/)
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="400"> 
 
