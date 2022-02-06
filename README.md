@@ -1,6 +1,10 @@
  __Welcome To My GitHub Profile !__
 ___
- __QA Course by Vadim Ksenzov__ [ksendzov.com](https://ksendzov.com/)
+ __Student of Vadim Ksendzov course__ [ksendzov.com](https://ksendzov.com/)
+
+ __SKILLS__
+ 
+ ```Terminal Linux``` [Link](https://github.com/AndreiHeranok/Terminal_linux/blob/main/README.md)
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="400"> 
 
