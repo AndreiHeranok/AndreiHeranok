@@ -1,12 +1,15 @@
  __Welcome To My GitHub Profile !__
 ___
+___
  __Student of Vadim Ksendzov course__ [ksendzov.com](https://ksendzov.com/)
 
  __SKILLS__
  
- ```Terminal Linux``` [Link](https://github.com/AndreiHeranok/Terminal_linux/blob/main/README.md)
+ Terminal Linux - [Link](https://github.com/AndreiHeranok/Terminal_linux/blob/main/README.md)
 
- ```Git``` ```GitHub``` ```GitBush```  [Link](https://github.com/AndreiHeranok/Git.GitHub/blob/main/README.md)
+ Git,GitHub,GitBush - [Link](https://github.com/AndreiHeranok/Git.GitHub/blob/main/README.md)
+
+ Postman - [Link]()
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="400"> 
 
