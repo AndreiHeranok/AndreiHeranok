@@ -1,6 +1,5 @@
  __Welcome To My GitHub Profile !__
 ___
-___
  __Student of Vadim Ksendzov course__ [ksendzov.com](https://ksendzov.com/)
 
  __SKILLS__
