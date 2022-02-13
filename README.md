@@ -12,7 +12,7 @@ ___
 
  SQL - [Link]()
 
- Chrome_DevTools - [Link]()
+ Chrome_DevTools - [Link](https://www.youtube.com/watch?v=rHVvkRRs_os&feature=youtu.be)
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="400"> 
 
