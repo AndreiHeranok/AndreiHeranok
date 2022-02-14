@@ -8,7 +8,7 @@ ___
 
  Git,GitHub,GitBush - [Link](https://github.com/AndreiHeranok/Git.GitHub/blob/main/README.md)
 
- Postman - [Link]()
+ Postman - [Link](https://github.com/AndreiHeranok/Postman)
 
  SQL - [Link]()
 
