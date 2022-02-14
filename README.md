@@ -10,7 +10,7 @@ ___
 
  Postman - [Link](https://github.com/AndreiHeranok/Postman)
 
- SQL - [Link]()
+ SQL - [Link](https://github.com/AndreiHeranok/SQL)
 
  Chrome_DevTools - [Link](https://www.youtube.com/watch?v=rHVvkRRs_os&feature=youtu.be)
 
