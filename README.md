@@ -3,6 +3,8 @@ ___
  __Student of Vadim Ksendzov course__ [ksendzov.com](https://ksendzov.com/)
 
  __SKILLS__
+
+ Documentation - [Checklists]()/ [Bug_reports]()/ [Test-case]()/ [Requirements]()
  
  Terminal Linux - [Link](https://github.com/AndreiHeranok/Terminal_linux/blob/main/README.md)
 
