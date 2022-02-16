@@ -4,7 +4,7 @@ ___
 
  __SKILLS__
 
- Documentation - [Checklists]()/ [Bug_reports]()/ [Test-case]()/ [Requirements]()
+ Documentation - [Checklists](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=0) / [Bug_reports](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=1992942327) / [Test-case]() / [Requirements]()
  
  Terminal Linux - [Link](https://github.com/AndreiHeranok/Terminal_linux/blob/main/README.md)
 
