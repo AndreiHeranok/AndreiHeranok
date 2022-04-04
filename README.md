@@ -22,6 +22,11 @@ ___
 
  • __Mobile testing__ - [Link]()
 
+ •
+
+ •
+
+
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="250">
 
 ___
