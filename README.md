@@ -31,7 +31,7 @@ __Сontact me:__
 [![telegram](https://img.shields.io/badge/-telegram-blue?style=for-the-badge&logo=telegram&)](https://t.me/potatorecs)
 ___
 [![Doc](https://img.shields.io/badge/-Documentation-black?style=for-the-badge&logo=MicrosoftExcel&logocolor=white)]()
-[![Linux_terminal](https://img.shields.io/badge/-Terminal_Linux-black?style=for-the-badge&logo=Linux&logocolor=white)]()
+[![Linux_terminal](https://img.shields.io/badge/-Terminal_Linux-black?style=for-the-badge&logo=Linux&logocolor=white)](https://github.com/AndreiHeranok/Terminal_linux/blob/main/README.md)
 [![GITHUB](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=GITHUB&logocolor=white)]()  
 [![GIT](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=GIT&logocolor=white)]() 
 [![POSTMAN](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman&logocolor=white)]() 
