@@ -6,7 +6,7 @@ ___
 
  • __The basics of testing__  - Types of testing/ SDLC/ STLC/Software development methodologies/ test design techniques
 
- • __Client-server architecture__ -
+ • __Client-server architecture__ - 
 
  • __Documentation__ - [Checklists](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=0) / [Bug_reports](https://docs.google.com/spreadsheets/d/1OGLl7aYYlPHfDevrjMWGbOlIP6k0WuZ4-T1COxDmnqw/edit#gid=1992942327) / [Test-case]() / [Requirements]()
  
@@ -25,7 +25,6 @@ ___
  •
 
  •
-
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="250">
 
