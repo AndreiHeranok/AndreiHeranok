@@ -39,5 +39,5 @@ ___
 [![GITHUB](https://img.shields.io/badge/-GITHUB-black?style=for-the-badge&logo=GITHUB&logocolor=white)](https://github.com/AndreiHeranok/Git.GitHub/blob/main/README.md)  
 [![GIT](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=GIT&logocolor=white)]() 
 [![POSTMAN](https://img.shields.io/badge/-postman-black?style=for-the-badge&logo=postman&logocolor=white)]() 
-[![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logocolor=white)]() 
+[![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logocolor=white)](https://github.com/AndreiHeranok/SQL/blob/main/README.md) 
 [![chrome](https://img.shields.io/badge/-Dev_tools-black?style=for-the-badge&logo=googleChrome&)]() 
