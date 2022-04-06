@@ -4,7 +4,7 @@ ___
 
  __SKILLS__ 
 
- • __The basics of testing__  - Types of testing/ SDLC/ STLC/Software development methodologies/ test design techniques
+ • __The basics of testing__  - Types of testing/ SDLC/ STLC/Software development methodologies/ Test design techniques
 
  • __Client-server architecture__ - Response codes, query methods
 
