@@ -22,7 +22,7 @@ ___
 
  • __Mobile testing__ - [Link]()
 
- • __Android Studio__ 
+ • __Android Studio__ - Building and running the application  on  emulations and a real devices
 
  • __ABD__
 
