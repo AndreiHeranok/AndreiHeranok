@@ -24,7 +24,7 @@ ___
 
  • __Android Studio__ - Building and running the application  on  emulations and a real devices
 
- • __ABD__
+ • __ABD__ - [Link]()
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="250">
 
