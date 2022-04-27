@@ -20,7 +20,7 @@ ___
 
  • __Chrome_DevTools__ - [Link](https://www.youtube.com/watch?v=rHVvkRRs_os&feature=youtu.be)
 
- • __Mobile testing__ - [Link]()
+ • __Mobile testing__ - [Link](https://github.com/AndreiHeranok/Mobile_testing/blob/main/README.md)
 
  • __Android Studio__ - Building and running the application  on  emulations and a real devices
 
