@@ -46,5 +46,5 @@ ___
 [![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=postgresql&logocolor=white)](https://github.com/AndreiHeranok/SQL/blob/main/README.md) 
 [![chrome](https://img.shields.io/badge/-Dev_tools-black?style=for-the-badge&logo=googleChrome&)]() 
 [![AndroidStudio](https://img.shields.io/badge/-Android_Studio-black?style=for-the-badge&logo=AndroidStudio&logocolor=white)]()
-[![iOS/Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logocolor=white)]()
+[![Android](https://img.shields.io/badge/-Android-black?style=for-the-badge&logo=Android&logocolor=white)]()
 [![iOS/Android](https://img.shields.io/badge/-iOS-black?style=for-the-badge&logo=iOS&logocolor=white)]()
