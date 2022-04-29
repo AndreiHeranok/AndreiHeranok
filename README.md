@@ -26,9 +26,9 @@ ___
 
  • __ABD__ - [Link](https://github.com/AndreiHeranok/ADB/blob/main/README.md)
 
- • __Charles__ - [Link]()
+ • __Charles__ - [Link](https://github.com/AndreiHeranok/Charles)
 
- • __JMeter__ - [Link]()
+ • __JMeter__ - [Link](https://github.com/AndreiHeranok/JMeter/blob/main/README.md)
 
 <img src="https://cdn.dribbble.com/users/1235346/screenshots/3252385/job.gif" width="250">
 
